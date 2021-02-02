@@ -44,8 +44,4 @@ You can find more information about my homeworks and final project in my Global 
 - Introduction to OOP
 - Introduction to NumPy
 
-## Certificate
-![](Py_Certificate.png)
-
-
 
