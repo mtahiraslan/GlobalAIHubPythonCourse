@@ -2,13 +2,10 @@
   <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png">
 </div>
 
-# Welcome to our Introduction to Python Programming Course Repo!
+# Welcome to my Global AI Hub Python Course Repository!
 
-You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-machine-learning/)
+You can find more information about my homeworks and final project in my Global AI Hub Course Repository.
 
-To enroll our courses, you can find the next course that fit your schedule by visiting [Upcoming Courses.](https://globalaihub.com/upcoming-courses/)
-
-## Syllabus
 
 ### [Lesson 0](https://github.com/globalaihub/introduction-to-python/blob/master/Day0.ipynb)
 - What is Python?
